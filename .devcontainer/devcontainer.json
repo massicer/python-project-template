@@ -1,0 +1,6 @@
+{
+    "name": "Python 3.9 Devcontainer",
+    "image": "python_toolchain:local",
+    "extensions": [],
+    "forwardPorts": [8080],
+}
