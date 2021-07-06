@@ -24,6 +24,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: lint
+      - name: execute tests
         run: make test
     
